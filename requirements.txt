@@ -1,0 +1,8 @@
+gradio==6.2.0
+langchain
+langchain-community
+langchain-classic
+langchain-core
+langchain-text-splitters
+faiss-cpu
+rank_bm25
