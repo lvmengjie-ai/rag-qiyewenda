@@ -11,7 +11,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_classic.chains import RetrievalQA
 
 # ===================== 你的通义千问阿里云API密钥 =====================
-api_key = "sk-f1f1cdcad2bc498c8683996a1ee4987b"
+api_key = "sk-"
 llm = ChatTongyi(
     model_name="qwen-turbo",
     dashscope_api_key=api_key,
